@@ -14,4 +14,4 @@ Hi! I'm Scott. A UK based web developer.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=scottwright-io&theme=highcontrast&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=scottwright-io&theme=onedark&hide_border=false)
